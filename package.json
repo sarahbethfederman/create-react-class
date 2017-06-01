@@ -1,0 +1,12 @@
+{
+  "name": "create-react-class",
+  "description": "A React compatibility layer for Preact",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sarahbethfederman/create-react-class",
+  "bugs": "https://github.com/developit/preact-compat/issues",
+  "license": "UNLICENSE",
+  "main": "index.js",
+  "peerDependencies": {
+    "preact-compat": "*"
+  }
+}
